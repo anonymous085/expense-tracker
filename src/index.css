@@ -1,6 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* Using Tailwind CSS via CDN for deployment compatibility */
 
 body {
   margin: 0;
